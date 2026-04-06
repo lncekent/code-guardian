@@ -1,0 +1,5 @@
+{
+  "name": "Code-Guardian",
+  "description": "A high-performance security command center for monitoring and auditing pull requests in real-time.",
+  "requestFramePermissions": []
+}
